@@ -1,9 +1,5 @@
 # format method
 
-thing = "tree"
-color = "green"
-print("\nI like {} and its {} leaves".format(thing,color))
-
 original_poem = "The rose is red, the violet is blue the honey is sweet, and so are you"
 blank_poem = "The rose is {}, the violet is {}, the honey is {}, and so are you"
 
